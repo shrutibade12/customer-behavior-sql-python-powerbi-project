@@ -118,7 +118,7 @@ vendor-performance-analysis/
   - Revenue by Age Group (Horizontal Bar Chart) 
   - Sales by Age Group (Horizontal Bar Chart)
 
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](Images/dashboard.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
