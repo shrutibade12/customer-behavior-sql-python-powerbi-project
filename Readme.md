@@ -154,4 +154,4 @@ sql queries\customer_behavior_sql_queries.sql
 **Shruti Bade**  
  
 📧 Email: shrutibade12@gmail.com
-🔗 [LinkedIn]( www.linkedin.com/in/shruti-bade)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shruti-bade)  
