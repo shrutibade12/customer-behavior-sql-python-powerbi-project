@@ -60,7 +60,7 @@ The workflow follows a real-world analytics pipeline: Raw Data → Python (EDA &
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
-vendor-performance-analysis/
+customer_behavior_analysis/
 │
 ├── README.md
 ├── .gitignore
